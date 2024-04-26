@@ -1,0 +1,14 @@
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\bin\Debug\net6.0\Pagina Web.exe
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\bin\Debug\net6.0\Pagina Web.deps.json
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\bin\Debug\net6.0\Pagina Web.runtimeconfig.json
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\bin\Debug\net6.0\Pagina Web.dll
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\bin\Debug\net6.0\Pagina Web.pdb
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.AssemblyInfoInputs.cache
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.AssemblyInfo.cs
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.csproj.CoreCompileInputs.cache
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.dll
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\refint\Pagina Web.dll
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.pdb
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\Pagina Web.genruntimeconfig.cache
+C:\Users\ARMANDO\Desktop\html. UMG\Pagina Web\Pagina Web\obj\Debug\net6.0\ref\Pagina Web.dll
